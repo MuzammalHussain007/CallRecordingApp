@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallRecordingApp</string>
+    <string name="contact_administrator_in_case_of_any_issue">Contact Administrator In \n \u0020\u0020 \u0020\u0020Case Of Any Issue</string>
+    <string name="already_loggedin">You\'re Already\n \u0020 \u0020Logged In</string>
+</resources>
